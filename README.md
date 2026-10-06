@@ -23,6 +23,7 @@ Visuals include:
 - Revenue by Territory
 
 ### 2. Product & Customer Analysis
+![Product & Customer Analysis](product-customer-analysis.png)
 Focuses on product and customer performance.
 
 Analysis includes:
@@ -32,6 +33,7 @@ Analysis includes:
 - Revenue by Customer Type
 
 ### 3. Sales & Territory Analysis
+![Sales & Territory Analysis](sales-territory-analysis.png)
 Compares performance across different sales territories.
 
 Analysis includes:
