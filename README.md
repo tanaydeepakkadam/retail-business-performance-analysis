@@ -3,7 +3,7 @@
 A Power BI portfolio project analysing retail sales, customers, products, profitability, and territory performance.
 
 The project uses SQL reporting views, a Power BI data model, DAX measures, and interactive dashboards to turn transactional data into business insights.
-
+![Executive Overview Dashboard](executive-overview.png)
 ## Dashboard Overview
 
 ### 1. Executive Overview
